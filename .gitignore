@@ -1,0 +1,14 @@
+# Hermes / agent scratch and internal notes
+.hermes/
+.internal/
+scratchpad/
+*.scratch.md
+
+# Project internal-only spec/prompt (never push)
+docs/00-project-prompt.md
+
+# Misc
+.DS_Store
+*.log
+__pycache__/
+tmp/
